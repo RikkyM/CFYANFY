@@ -1,5 +1,5 @@
-import Input from "../Elements/Input/Input";
 import Label from "../Elements/Input/label";
+import Input from "../Elements/Input/Input";
 
 const Search = ({ onChange, name = "search" }) => {
   return (
