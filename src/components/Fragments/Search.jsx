@@ -6,7 +6,7 @@ const Search = ({ onChange, name = "search" }) => {
     <>
       <Label
         label={name}
-        customClass="w-[65%] max-w-[825px] mx-auto mt-10 mb-2 block"
+        customClass="w-[90%] max-w-[860px] mx-auto mb-2 block"
       >
         <Input
           type="text"
