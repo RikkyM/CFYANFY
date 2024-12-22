@@ -1,4 +1,4 @@
-import Label from "./label";
+import Label from "./Label";
 import Input from "./Input";
 
 const InputElement = ({ name, labelText, onChange }) => {
